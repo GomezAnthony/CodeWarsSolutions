@@ -19,4 +19,3 @@ function stringy(size) {
 	}
   return result
 }
-  
